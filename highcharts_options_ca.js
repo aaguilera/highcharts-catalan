@@ -20,7 +20,7 @@ Highcharts.setOptions({
         noData: "No hi ha dades per mostrar",
         printChart: "Imprimeix el diagrama",
         resetZoom: "Restableix el zoom",
-        resetZoomTitle: "Restableix el nivell de zoom a 1:1",
+        resetZoomTitle: "Restableix el nivell de zoom 1:1",
         shortMonths: ["Gen", "Feb", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Oct", "Nov", "Des"],
         thousandsSep: ".",
         weekdays: ["Diumenge", "Dilluns", "Dimarts", "Dimecres", "Dijous", "Divendres", "Dissabte"]
