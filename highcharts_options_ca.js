@@ -8,7 +8,7 @@
  */
 Highcharts.setOptions({
     lang: {
-        contextButtonTitle: "Menú contextual de la gràfica",
+        contextButtonTitle: "Menú contextual del gràfic",
         decimalPoint: ",",
         downloadJPEG: "Desa com a imatge JPEG",
         downloadPDF: "Desa com a document PDF",
@@ -18,7 +18,7 @@ Highcharts.setOptions({
         loading: "S'està carregant...",
         monts: ["Gener", "Febrer", "Març", "Abril", "Maig", "Juny", "Juliol", "Agost", "Setembre", "Octubre", "Novembre", "Desembre"],
         noData: "No hi ha dades per mostrar",
-        printChart: "Imprimeix la gràfica",
+        printChart: "Imprimeix el gràfic",
         resetZoom: "Reinicialitza el nivell d'ampliació",
         resetZoomTitle: "Reinicialitza el nivell d'ampliació a 1:1",
         shortMonths: ["Gen", "Feb", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Oct", "Nov", "Des"],
