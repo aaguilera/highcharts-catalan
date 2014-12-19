@@ -17,7 +17,7 @@ Highcharts.setOptions({
         drillUpText: "Torna a {series.name}",
         loading: "S'està carregant...",
         monts: ["Gener", "Febrer", "Març", "Abril", "Maig", "Juny", "Juliol", "Agost", "Setembre", "Octubre", "Novembre", "Desembre"],
-        noData: 'No hi ha dades per mostrar',
+        noData: "No hi ha dades per mostrar",
         printChart: "Imprimeix la gràfica",
         resetZoom: "Reinicialitza el nivell d'ampliació",
         resetZoomTitle: "Reinicialitza el nivell d'ampliació a 1:1",
