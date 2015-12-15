@@ -15,9 +15,11 @@ Highcharts.setOptions({
         downloadPNG: "Desa com a imatge PNG",
         downloadSVG: "Desa com a imatge SVG",
         drillUpText: "Torna a {series.name}",
+        /* invalidDate: "", */
         loading: "S'està carregant...",
         months: ["Gener", "Febrer", "Març", "Abril", "Maig", "Juny", "Juliol", "Agost", "Setembre", "Octubre", "Novembre", "Desembre"],
         noData: "No hi ha dades per mostrar",
+        /* numericSymbols: [ "k" , "M" , "G" , "T" , "P" , "E"], */
         printChart: "Imprimeix el diagrama",
         resetZoom: "Restableix el zoom",
         resetZoomTitle: "Restableix el nivell de zoom 1:1",
