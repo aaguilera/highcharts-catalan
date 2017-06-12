@@ -19,11 +19,13 @@ Highcharts.setOptions({
         loading: "S'està carregant...",
         months: ["Gener", "Febrer", "Març", "Abril", "Maig", "Juny", "Juliol", "Agost", "Setembre", "Octubre", "Novembre", "Desembre"],
         noData: "No hi ha dades per mostrar",
+        /* numericSymbolMagnitude: 1000, */
         /* numericSymbols: [ "k" , "M" , "G" , "T" , "P" , "E"], */
         printChart: "Imprimeix el diagrama",
         resetZoom: "Restableix el zoom",
         resetZoomTitle: "Restableix el nivell de zoom 1:1",
         shortMonths: ["Gen", "Feb", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Oct", "Nov", "Des"],
+        shortWeekdays: ["Dg", "Dl", "Dm", "Dc", "Dj", "Dv", "Ds"],
         thousandsSep: ".",
         weekdays: ["Diumenge", "Dilluns", "Dimarts", "Dimecres", "Dijous", "Divendres", "Dissabte"]
     }
