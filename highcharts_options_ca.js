@@ -10,10 +10,12 @@ Highcharts.setOptions({
     lang: {
         contextButtonTitle: "Menú contextual del diagrama",
         decimalPoint: ",",
+        downloadCSV: "Desa com a CSV",
         downloadJPEG: "Desa com a imatge JPEG",
         downloadPDF: "Desa com a document PDF",
         downloadPNG: "Desa com a imatge PNG",
         downloadSVG: "Desa com a imatge SVG",
+        downloadXLS: "Desa com a XLS",
         drillUpText: "Torna a {series.name}",
         /* invalidDate: "", */
         loading: "S'està carregant...",
