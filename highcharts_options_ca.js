@@ -84,6 +84,7 @@ Highcharts.setOptions({
                     scatterCombination: "{name}, sèrie {ix} de {numSeries}, diagrama de dispersió amb {numPoints} {#plural(numPoints, punts, punt)}.",
                     spline: "{name}, línia {ix} de {numSeries} amb {numPoints} {#plural(numPoints, punts, punt)} de dades.",
                     splineCombination: "{name}, sèrie {ix} de"
+                }
             },
             seriesTypeDescriptions: {
                 /*
